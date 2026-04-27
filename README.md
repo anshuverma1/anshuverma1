@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anshu Verma</h1>
 <h3 align="center">Senior Front-end Engineer · React · Next.js · Micro-frontends · TypeScript</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anshuverma1&theme=flat&no-frame=true&column=6" alt="anshuverma1" />
-  </a>
-</p>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshuverma1&theme=github)](https://github.com/anshuverma1)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshuverma1&theme=github)](https://github.com/anshuverma1) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshuverma1&theme=github)](https://github.com/anshuverma1)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshuverma1&theme=github)](https://github.com/anshuverma1) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshuverma1&theme=github)](https://github.com/anshuverma1)
 
 - 🔭 Currently building a **React micro-frontend platform** for a leading US bank's co-branded credit card portal at **Publicis Sapient**
 - 🏗️ Core owner of a **Design System**, **SPA Container shell**, and **Shared Config** across 12+ micro-frontend repos
